@@ -2,7 +2,7 @@
 
 Exámenes personalizados generados automáticamente basados en el código real de cada estudiante extraído de sus Pull Requests.
 
-Nota: Responde 5 de las preguntas disponibles en tu examen (cada alumno tiene entre 8 y 10 preguntas, puede elegir libremente cuáles responder).
+Nota: Responda 5 de las preguntas disponibles en su examen (cada alumno puede elegir libremente cuáles responder).
 
 ## Índice de Exámenes
 
